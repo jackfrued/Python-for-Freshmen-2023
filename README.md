@@ -12,3 +12,5 @@
 6. 为每篇文章提供配套的视频讲解，在[B站](https://space.bilibili.com/1177252794)持续更新，大家可以在B站搜索“骆昊jackfrued”。
 
 最后，感谢大家关注和 star 这个仓库，愿你我都是“出走半生，归来仍是少年”！
+
+> **说明**：文档中包含了数学公式，默认情况下，GitHub 上的 markdown 文档无法渲染数学公式。对于使用 Chrome 浏览器的用户，如果希望正确显示这些数学公式，可以打开 Chrome 应用商店，搜索名为 MathJax Plugin for Github 的插件并安装它。启用该插件后，GitHub 上面 markdown 文档中的数学公式就可以正常显示了。
