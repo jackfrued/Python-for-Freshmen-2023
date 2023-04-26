@@ -138,7 +138,7 @@ Python 中有两种形式的注释：
 """
 第一个Python程序 - hello, world
 
-Version: 0.1
+Version: 1.0
 Author: 骆昊
 """
 # print('hello, world')
